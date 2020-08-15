@@ -1,0 +1,28 @@
+{
+  "name": "goko-saludo-api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "description": "saludo y peticion a una rest api",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "api-rest",
+    "saludo",
+    "breaking bad"
+  ],
+  "author": "Julio Gonzalez <julioagonzalez18@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GokoshiJr/goko-helloworld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GokoshiJr/goko-helloworld/issues"
+  },
+  "homepage": "https://github.com/GokoshiJr/goko-helloworld#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
